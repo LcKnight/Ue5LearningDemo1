@@ -1,0 +1,13 @@
+
+
+[/Script/EngineSettings.GeneralProjectSettings]
+ProjectID=96F48A7043F0B5DE6E8EB1AC61E562E9
+ProjectName=DemoProject
+
+[StartupActions]
+bAddPacks=True
+InsertPack=(PackSource="StarterContent.upack",PackName="StarterContent")
+
+[SectionsToSave]
++Section=StartupActions
+
